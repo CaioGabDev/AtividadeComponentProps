@@ -14,10 +14,9 @@ const styles = StyleSheet.create({
         backgroundColor: "blue",
         padding: 10,
         marginTop: 20,
-        width: 300,
+        width: 100,
         display: "flex",
-        alignItems: "center",
-        borderRadius: 10,
+        alignItems: "center",   
     },
     textButton: {
         color: "white",
